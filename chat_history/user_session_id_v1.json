@@ -1,0 +1,50 @@
+[
+    {
+        "type": "human",
+        "content": "What's the capital of india?"
+    },
+    {
+        "type": "ai",
+        "content": "The capital of India is New Delhi."
+    },
+    {
+        "type": "human",
+        "content": "My Name is Asura! and my favorite hobby is Sleeping... remember..."
+    },
+    {
+        "type": "ai",
+        "content": "Okay, Asura! I'll remember that your name is Asura and your favorite hobby is sleeping."
+    },
+    {
+        "type": "human",
+        "content": "What are the different colors of horns and what they signify?"
+    },
+    {
+        "type": "ai",
+        "content": "The different colors of horns and what they signify are:\n\n*   **Black:** Symbolizes civilians\n*   **White:** Symbolizes elites\n*   **Gold:** Symbolizes aristocrats\n*   **Purple:** Symbolizes royalty"
+    },
+    {
+        "type": "human",
+        "content": "who is zero?"
+    },
+    {
+        "type": "ai",
+        "content": "Zero is a central character who is theorized to be a clone created from Asura's genes. She might be a test subject designed to serve as a control terminal for the sanctuaries. Her physical resemblance to Asura and her ability to use the Falsified-Sky Sutra support this theory, suggesting a connection to Asura heritage. However, her origins have not been definitively confirmed by the author."
+    },
+    {
+        "type": "human",
+        "content": "wht's my favorite hobby?"
+    },
+    {
+        "type": "ai",
+        "content": "Your favorite hobby is **Sleeping**."
+    },
+    {
+        "type": "human",
+        "content": "are u sure?"
+    },
+    {
+        "type": "ai",
+        "content": "Yes, I am sure. You told me earlier: \"My Name is Asura! and my favorite hobby is Sleeping... remember...\""
+    }
+]
